@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()  # take environment variables from .env.
 
-# While loop to start and sop chatbot
+# While loop to start and stop chatbot
 
 while True:
     userInput = input("I am a terminator")
